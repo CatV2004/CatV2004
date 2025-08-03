@@ -3,7 +3,7 @@
 
 ---
 
-## 🔭 Currently Working On
+## ✅ Projects I've Built
 
 - 🧑‍💻 [Smart Social Network](https://github.com/CatV2004/smart-social-network) – A platform for modern social interaction.
 - 🎓 [AlumniConnect](https://github.com/CatV2004/AlumniConnect) – Full-stack alumni social network with React, Spring MVC & Firebase Chat.
