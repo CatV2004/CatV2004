@@ -3,6 +3,15 @@
 
 ---
 
+## 👨‍💻 About Me
+
+I'm a passionate full-stack developer who thrives on learning and applying new technologies quickly.  
+I enjoy tackling real-world problems, building scalable applications, and exploring modern tech stacks.
+
+With a solid foundation in **React**, **Spring MVC**, **Django**, and **Firebase**, I constantly seek opportunities to expand my knowledge — from experimenting with **Socket.IO** for real-time notifications to applying **machine learning** for personalized health tracking.
+
+---
+
 ## ✅ Projects I've Built
 
 - 🧑‍💻 [Smart Social Network](https://github.com/CatV2004/smart-social-network) – 🚧 *Work in progress*: A platform for modern social interaction.
