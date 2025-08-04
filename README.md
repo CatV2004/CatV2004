@@ -6,7 +6,8 @@
 ## ✅ Projects I've Built
 
 - 🧑‍💻 [Smart Social Network](https://github.com/CatV2004/smart-social-network) – 🚧 *Work in progress*: A platform for modern social interaction.
-- 🎓 [AlumniConnect](https://github.com/CatV2004/AlumniConnect) – A full-stack alumni social network with advanced features like real-time chat (Firebase), AI-enhanced content moderation, and role-based access. Built with React, Spring MVC, and Firebase.
+- 🎓 [AlumniConnect](https://github.com/CatV2004/AlumniConnect) – A full-stack alumni social network featuring real-time chat (via Firebase), AI-assisted content moderation, and role-based access control.
+Built with React, Spring MVC, and Firebase. Also experimented with Socket.IO for real-time notification delivery — a technology exploration beyond Firebase to deepen real-time communication knowledge.
 - 🏋️ [Gym Health Tracking System](https://github.com/CatV2004/gym-health-tracking-system) – A cross-platform mobile app for managing gym sessions, health tracking, and personalized recommendations using ML models. Developed with React Native and Django.
 
 ---
