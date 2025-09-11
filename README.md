@@ -29,8 +29,8 @@ Built with React, Spring MVC, and Firebase. Also experimented with Socket.IO for
 
 ## 💬 Ask Me About
 
-- Frontend: **React**, **Tailwind CSS**, **React Native**
-- Backend: **Spring MVC**, **Django**, **NestJS**
+- Frontend: **React**, **Next.js**, **Tailwind CSS**, **React Native**
+- Backend: **Spring MVC**, **Django**, **NestJS**, **Flask**
 - Full-stack integration, RESTful APIs, Firebase services
 - GitHub project structuring & team collaboration
 
@@ -39,7 +39,7 @@ Built with React, Spring MVC, and Firebase. Also experimented with Socket.IO for
 ## 📄 My Experience
 
 I'm a passionate full-stack developer with hands-on experience building scalable web and mobile apps.  
-I specialize in **React**, **Spring MVC**, **Django**, **Firebase**, and **React Native**.  
+I specialize in **React**, **Next.js**, **Spring MVC**, **Django**, **Firebase**, and **NestJS**.  
 I focus on clean architecture, maintainable code, and continuously exploring new technologies.
 
 ---
